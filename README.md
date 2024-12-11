@@ -6,7 +6,7 @@ AURA is a simple virtual assistant built using **HTML**, **CSS**, and **JavaScri
 
 ## Demo Screenshot
 ![image](./ss.jpg)
-![image](./ss-1.jpg)
+![image](./ss-2.jpg)
 
 
 Run index.html
