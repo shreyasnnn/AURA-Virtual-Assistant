@@ -6,6 +6,28 @@ AURA is a simple virtual assistant built using **HTML**, **CSS**, and **JavaScri
 
 ## Demo Screenshot
 ![image](./ss.jpg)
+![image](./ss-1.jpg)
+
+
+Run index.html
+
+
+https://github.com/user-attachments/assets/83c7b74b-cb39-488d-bde6-52e7a8eb659d
+
+Demo questions
+
+
+
+https://github.com/user-attachments/assets/528c1e84-c0f7-4976-9ebc-27bd341b75c0
+
+
+https://github.com/user-attachments/assets/c8a87c80-0217-4519-b591-0ea8bd102546
+
+
+
+
+
+
 
 
 ---
