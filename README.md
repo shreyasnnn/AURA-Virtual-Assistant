@@ -83,11 +83,11 @@ Here are some examples:
 | Command              | Action                    |
 |----------------------|---------------------------|
 | Hello / Namaste      | Greets the user           |
+| Who are you          | Tell's who she is         |
 | Open YouTube         | Opens YouTube in a tab    |
 | Open Google          | Opens Google in a tab     |
 | Open Facebook        | Opens Facebook in a tab   |
 | What's the time?     | Tells the current time    |
-| What's the date?     | Tells today's date        |
 | Open Instagram       | Opens Instagram           |
 
 ---
